@@ -1,0 +1,24 @@
+TODO
+----
+
+[x] ':' statement separator
+[ ] SINGLE datatype
+[ ] DEFINT, DEFSNG
+[ ] Allow more variables than just A-Z
+[ ] FOR loop
+[ ] WHILE loop
+[x] SAVE
+[ ] SLEEP
+[ ] PEEK/POKE
+[ ] Better Line Text/Bytecode data structure
+[ ] String Table for string constants?
+[ ] ELSE
+[ ] LIST should work by lines output, not number of lines of code, as it can
+    wrap to a next line
+[X] BREAK (escape key)
+[ ] GOTO A, optimize line lookups
+[ ] AND/OR/XOR
+[ ] ATN/SIN/COS
+[X] SQR
+[X] OPTIMIZE X = X + 1 (SELFADD)
+[ ] ; on the end of PRINT
