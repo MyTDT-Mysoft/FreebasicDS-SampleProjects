@@ -1,0 +1,35 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-lakc.obj
+# Vertices: 3
+# Points: 0
+# Lines: 0
+# Faces: 1
+# Materials: 1
+#
+#
+#
+#
+#
+# Vertex list
+v -516 -3 -516
+v -516 -3 516
+v 516 -3 -516
+v -516 -3 -516
+v -516 -3 516
+v 516 -3 -516
+
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts100
+f 1 2 3
+f 4 5 6
+#
+#
+#
+#
+#
+# END OF FILE

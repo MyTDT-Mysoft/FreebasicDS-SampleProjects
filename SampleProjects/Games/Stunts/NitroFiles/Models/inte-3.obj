@@ -1,0 +1,120 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME1_P3S-inte-3.obj
+# Vertices: 60
+# Points: 0
+# Lines: 0
+# Faces: 19
+# Materials: 2
+#
+#
+#
+#
+#
+# Vertex list
+v 334 0 -120
+v 334 0 120
+v 514 0 120
+v 514 0 -120
+v 512 0 -2
+v 427 0 -2
+v 427 0 2
+v 512 0 2
+v 168 0 -120
+v 168 0 120
+v 249 0 -2
+v 249 0 2
+v 334 0 2
+v 334 0 -2
+v -334 0 -120
+v -334 0 120
+v -168 0 120
+v -168 0 -120
+v -253 0 -2
+v -253 0 2
+v -168 0 2
+v -168 0 -2
+v -514 0 -120
+v -514 0 120
+v -419 0 -2
+v -419 0 2
+v -334 0 2
+v -334 0 -2
+v -120 0 -334
+v 120 0 -334
+v 120 0 -514
+v -120 0 -514
+v -2 0 -512
+v -2 0 -427
+v 2 0 -427
+v 2 0 -512
+v -120 0 -168
+v 120 0 -168
+v -2 0 -249
+v 2 0 -249
+v 2 0 -334
+v -2 0 -334
+v -120 0 168
+v 120 0 168
+v -120 0 120
+v -120 0 -120
+v 120 0 -120
+v 120 0 120
+v -120 0 334
+v 120 0 334
+v -2 0 253
+v 2 0 253
+v 2 0 168
+v -2 0 168
+v -120 0 514
+v 120 0 514
+v -2 0 419
+v 2 0 419
+v 2 0 334
+v -2 0 334
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts028
+f 1 2 3 4
+usemtl Stunts030
+f 5 6 7 8
+usemtl Stunts028
+f 9 10 2 1
+usemtl Stunts030
+f 11 12 13 14
+usemtl Stunts028
+f 15 16 17 18
+usemtl Stunts030
+f 19 20 21 22
+usemtl Stunts028
+f 23 24 16 15
+usemtl Stunts030
+f 25 26 27 28
+usemtl Stunts028
+f 29 30 31 32
+usemtl Stunts030
+f 33 34 35 36
+usemtl Stunts028
+f 37 38 30 29
+usemtl Stunts030
+f 39 40 41 42
+usemtl Stunts028
+f 37 43 44 38
+f 18 17 45 46
+f 47 48 10 9
+f 49 50 44 43
+usemtl Stunts030
+f 51 52 53 54
+usemtl Stunts028
+f 55 56 50 49
+usemtl Stunts030
+f 57 58 59 60
+#
+#
+#
+#
+#
+# END OF FILE

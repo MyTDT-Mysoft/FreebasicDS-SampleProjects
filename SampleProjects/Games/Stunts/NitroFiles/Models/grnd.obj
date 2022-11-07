@@ -1,0 +1,31 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-lake.obj
+# Vertices: 4
+# Points: 0
+# Lines: 0
+# Faces: 1
+# Materials: 1
+#
+#
+#
+#
+#
+# Vertex list
+v -518 -6 -518
+v -518 -6 518
+v 518 -6 518
+v 518 -6 -518
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts16
+f 1 2 3 4
+#
+#
+#
+#
+#
+# END OF FILE

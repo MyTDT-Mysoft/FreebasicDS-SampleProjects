@@ -1,0 +1,108 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-palm.obj
+# Vertices: 36
+# Points: 0
+# Lines: 0
+# Faces: 24
+# Materials: 5
+#
+#
+#
+#
+#
+# Vertex list
+v 32 0 -12
+v 12 100 -10
+v 18 100 0
+v 40 0 -2
+v 18 100 2
+v 40 0 4
+v 12 100 12
+v 32 0 14
+v 4 100 2
+v 24 0 4
+v 4 100 0
+v 24 0 -2
+v -4 190 -6
+v 0 190 2
+v 0 190 4
+v -4 190 8
+v -2 190 4
+v -2 190 2
+v 16 202 -14
+v 6 200 -24
+v 14 211 10
+v 14 210 -4
+v 4 192 26
+v 16 193 18
+v -22 207 22
+v -12 207 28
+v -30 195 -4
+v -28 197 14
+v -14 187 -24
+v -24 185 -12
+v 34 180 -38
+v 30 187 2
+v 24 175 36
+v -20 197 38
+v -40 172 2
+v -28 179 -28
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts108
+f 1 2 3 4
+usemtl Stunts109
+f 4 3 5 6
+usemtl Stunts108
+f 6 5 7 8
+usemtl Stunts109
+f 8 7 9 10
+usemtl Stunts108
+f 10 9 11 12
+usemtl Stunts109
+f 12 11 2 1
+usemtl Stunts108
+f 2 13 14 3
+usemtl Stunts109
+f 3 14 15 5
+usemtl Stunts108
+f 5 15 16 7
+usemtl Stunts109
+f 17 9 7 16
+usemtl Stunts108
+f 9 17 18 11
+usemtl Stunts109
+f 13 2 11 18
+usemtl Stunts068
+f 14 19 20 13
+usemtl Stunts069
+f 15 21 22 14
+usemtl Stunts068
+f 16 23 24 15
+usemtl Stunts069
+f 17 25 26 16
+usemtl Stunts068
+f 18 27 28 17
+usemtl Stunts069
+f 13 29 30 18
+f 19 31 20
+usemtl Stunts070
+f 21 32 22
+usemtl Stunts069
+f 33 24 23
+usemtl Stunts070
+f 34 26 25
+usemtl Stunts069
+f 28 27 35
+usemtl Stunts070
+f 30 29 36
+#
+#
+#
+#
+#
+# END OF FILE
