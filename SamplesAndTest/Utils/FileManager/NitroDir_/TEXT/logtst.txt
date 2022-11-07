@@ -1,0 +1,399 @@
+Battle Log:
+Battle Mode: Gold/Silver/Crystal
+Rule: Sleep Clause
+Rule: Freeze Clause
+Rule: Self-KO Clause
+Rule: Apply PP Ups
+Rule: Battle Timeout
+Rule: Unrated
+Ged_(GSC) vs Mysoft.  Begin!
+Ged_(GSC) sent out Jolteon (Lv.100 Jolteon)!
+Mysoft sent out Tigyella (Lv.100 Raikou)!
+Ged_(GSC): voy perde
+Ged_(GSC): so ruim em gsc
+Ged_(GSC): xD
+Mysoft: XD
+Mysoft: anywayz eu to sem lutar faz um ano eu acho
+Mysoft: vamos lá
+Ged_(GSC): lol
+
+Begin Turn #1
+Jolteon used Thunder Wave!
+Tigyella is paralyzed! It may be unable to move!
+---------------------------------
+Tigyella used Crunch!
+(23% damage)
+---------------------------------
+End of turn #1
+Ged_(GSC)'s Jolteon: 77% HP
+Mysoft's Tigyella: 383 HP (Par)
+
+Begin Turn #2
+Ged_(GSC) withdrew Jolteon!
+Ged_(GSC) sent out Snorlax (Lv.100 Snorlax)!
+---------------------------------
+Tigyella used Crunch!
+(12% damage)
+---------------------------------
+Snorlax's Leftovers restored its HP a little!
+End of turn #2
+Ged_(GSC)'s Snorlax: 94% HP
+Mysoft's Tigyella: 383 HP (Par)
+
+Begin Turn #3
+Mysoft withdrew Tigyella!
+Mysoft sent out Boneless (Lv.100 Marowak)!
+---------------------------------
+Snorlax used Curse!
+Snorlax's Attack rose!
+Snorlax's Defense rose!
+Snorlax's Speed fell!
+---------------------------------
+Snorlax's Leftovers restored its HP a little!
+End of turn #3
+Ged_(GSC)'s Snorlax: 100% HP
+Mysoft's Boneless: 323 HP
+Ged_(GSC): =/
+
+Begin Turn #4
+Boneless used Earthquake!
+(95% damage)
+A critical hit!
+---------------------------------
+Snorlax used Counter!
+(323 damage)
+Boneless fainted!
+Ged_(GSC): afff
+Ged_(GSC): critical
+Ged_(GSC): afff
+Mysoft: uix ;x
+Ged_(GSC): go
+Mysoft sent out Laxycal (Lv.100 Snorlax)!
+---------------------------------
+Snorlax's Leftovers restored its HP a little!
+End of turn #4
+Ged_(GSC)'s Snorlax: 11% HP
+Mysoft's Laxycal: 523 HP
+
+Begin Turn #5
+Laxycal used Body Slam!
+(10% damage)
+Snorlax fainted!
+Ged_(GSC) sent out Skarmory (Lv.100 Skarmory)!
+---------------------------------
+End of turn #5
+Ged_(GSC)'s Skarmory: 100% HP
+Mysoft's Laxycal: 523 HP
+
+Begin Turn #6
+Mysoft withdrew Laxycal!
+Mysoft sent out Black n' Decker (Lv.100 Gengar)!
+---------------------------------
+Skarmory used Toxic!
+It doesn't affect Black n' Decker...
+---------------------------------
+End of turn #6
+Ged_(GSC)'s Skarmory: 100% HP
+Mysoft's Black n' Decker: 323 HP
+
+Begin Turn #7
+Ged_(GSC) withdrew Skarmory!
+Ged_(GSC) sent out Jolteon (Lv.100 Jolteon)!
+---------------------------------
+Black n' Decker used Giga Drain!
+(19% damage)
+Jolteon had its energy drained!
+---------------------------------
+End of turn #7
+Ged_(GSC)'s Jolteon: 58% HP
+Mysoft's Black n' Decker: 323 HP
+
+Begin Turn #8
+Mysoft withdrew Black n' Decker!
+Mysoft sent out Tigyella (Lv.100 Raikou)!
+---------------------------------
+Jolteon used Thunder Wave!
+Tigyella is already paralyzed!
+---------------------------------
+End of turn #8
+Ged_(GSC)'s Jolteon: 58% HP
+Mysoft's Tigyella: 383 HP (Par)
+
+Begin Turn #9
+Ged_(GSC) withdrew Jolteon!
+Ged_(GSC) sent out Blissey (Lv.100 Blissey)!
+---------------------------------
+Tigyella used Thunder!
+(17% damage)
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #9
+Ged_(GSC)'s Blissey: 90% HP
+Mysoft's Tigyella: 383 HP (Par)
+
+Begin Turn #10
+Mysoft withdrew Tigyella!
+Mysoft sent out Laxycal (Lv.100 Snorlax)!
+---------------------------------
+Blissey used Seismic Toss!
+(100 damage)
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #10
+Ged_(GSC)'s Blissey: 96% HP
+Mysoft's Laxycal: 423 HP
+
+Begin Turn #11
+Ged_(GSC) withdrew Blissey!
+Ged_(GSC) sent out Skarmory (Lv.100 Skarmory)!
+---------------------------------
+Laxycal used Belly Drum!
+Laxycal cut its own HP and maximied Attack!
+---------------------------------
+End of turn #11
+Ged_(GSC)'s Skarmory: 100% HP
+Mysoft's Laxycal: 162 HP
+Mysoft: la la la u.u
+
+Begin Turn #12
+Laxycal used Selfdestruct!
+(100% damage)
+It's not very effective...
+Skarmory fainted!
+Laxycal fainted!
+Ged_(GSC): lol
+Ged_(GSC) sent out Blissey (Lv.100 Blissey)!
+Mysoft sent out Black n' Decker (Lv.100 Gengar)!
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #12
+Ged_(GSC)'s Blissey: 100% HP
+Mysoft's Black n' Decker: 323 HP
+
+Begin Turn #13
+Black n' Decker used Giga Drain!
+(6% damage)
+Blissey had its energy drained!
+---------------------------------
+Blissey used Attract!
+Black n' Decker fell in love!
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #13
+Ged_(GSC)'s Blissey: 100% HP
+Mysoft's Black n' Decker: 323 HP
+
+Begin Turn #14
+Ged_(GSC) withdrew Blissey!
+Ged_(GSC) sent out Vaporeon (Lv.100 Vaporeon)!
+---------------------------------
+Black n' Decker used Explosion!
+(100% damage)
+A critical hit!
+Vaporeon fainted!
+Black n' Decker fainted!
+Ged_(GSC): lol
+Mysoft: eta O_O
+Ged_(GSC) sent out Gengar (Lv.100 Gengar)!
+Mysoft sent out Heraking (Lv.100 Heracross)!
+---------------------------------
+End of turn #14
+Ged_(GSC)'s Gengar: 100% HP
+Mysoft's Heraking: 339 HP
+
+Begin Turn #15
+Gengar used Ice Punch!
+(78 damage)
+---------------------------------
+Heraking used Megahorn!
+(16% damage)
+It's not very effective...
+---------------------------------
+Gengar's Leftovers restored its HP a little!
+End of turn #15
+Ged_(GSC)'s Gengar: 90% HP
+Mysoft's Heraking: 261 HP
+
+Begin Turn #16
+Gengar used Curse!
+Gengar cut its own HP and laid a Curse on Heraking!
+---------------------------------
+Heraking used Earthquake!
+(41% damage)
+It's super effective!
+Gengar fainted!
+Ged_(GSC): oh noes
+Ged_(GSC) sent out Blissey (Lv.100 Blissey)!
+---------------------------------
+End of turn #16
+Ged_(GSC)'s Blissey: 100% HP
+Mysoft's Heraking: 261 HP
+
+Begin Turn #17
+Mysoft withdrew Heraking!
+Mysoft sent out Tigyella (Lv.100 Raikou)!
+---------------------------------
+Blissey used Counter!
+But it failed!
+---------------------------------
+End of turn #17
+Ged_(GSC)'s Blissey: 100% HP
+Mysoft's Tigyella: 383 HP (Par)
+Mysoft: eh...
+
+Begin Turn #18
+Blissey used Seismic Toss!
+(100 damage)
+---------------------------------
+Tigyella is paralyzed! It can't move!
+---------------------------------
+End of turn #18
+Ged_(GSC)'s Blissey: 100% HP
+Mysoft's Tigyella: 283 HP (Par)
+
+Begin Turn #19
+Blissey used Seismic Toss!
+(100 damage)
+---------------------------------
+Tigyella used Thunder!
+(19% damage)
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #19
+Ged_(GSC)'s Blissey: 88% HP
+Mysoft's Tigyella: 183 HP (Par)
+
+Begin Turn #20
+Ged_(GSC) withdrew Blissey!
+Ged_(GSC) sent out Jolteon (Lv.100 Jolteon)!
+---------------------------------
+Tigyella used Rest!
+Tigyella went to sleep!
+---------------------------------
+End of turn #20
+Ged_(GSC)'s Jolteon: 58% HP
+Mysoft's Tigyella: 383 HP (Slp)
+
+Begin Turn #21
+Jolteon used Thunderbolt!
+(63 damage)
+It's not very effective...
+---------------------------------
+Tigyella is fast asleep.
+Tigyella used Sleep Talk!
+Tigyella used Rest!
+Tigyella went to sleep!
+---------------------------------
+End of turn #21
+Ged_(GSC)'s Jolteon: 58% HP
+Mysoft's Tigyella: 383 HP (Slp)
+
+Begin Turn #22
+Jolteon used Thunderbolt!
+(63 damage)
+It's not very effective...
+---------------------------------
+Tigyella is fast asleep.
+Tigyella used Sleep Talk!
+Tigyella used Thunder!
+(28% damage)
+It's not very effective...
+---------------------------------
+End of turn #22
+Ged_(GSC)'s Jolteon: 30% HP
+Mysoft's Tigyella: 320 HP (Slp)
+
+Begin Turn #23
+Ged_(GSC) withdrew Jolteon!
+Ged_(GSC) sent out Blissey (Lv.100 Blissey)!
+---------------------------------
+Tigyella is fast asleep.
+Tigyella used Sleep Talk!
+Tigyella used Crunch!
+(17% damage)
+A critical hit!
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #23
+Ged_(GSC)'s Blissey: 78% HP
+Mysoft's Tigyella: 320 HP (Slp)
+
+Begin Turn #24
+Tigyella woke up!
+Tigyella used Thunder!
+(18% damage)
+Blissey is paralyzed! It may be unable to move!
+---------------------------------
+Blissey used Seismic Toss!
+(100 damage)
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #24
+Ged_(GSC)'s Blissey: 66% HP (Par)
+Mysoft's Tigyella: 220 HP
+
+Begin Turn #25
+Tigyella used Thunder!
+(17% damage)
+---------------------------------
+Blissey used Seismic Toss!
+(100 damage)
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #25
+Ged_(GSC)'s Blissey: 55% HP (Par)
+Mysoft's Tigyella: 120 HP
+
+Begin Turn #26
+Mysoft withdrew Tigyella!
+Mysoft sent out Heraking (Lv.100 Heracross)!
+---------------------------------
+Blissey used Seismic Toss!
+(100 damage)
+---------------------------------
+Blissey's Leftovers restored its HP a little!
+End of turn #26
+Ged_(GSC)'s Blissey: 61% HP (Par)
+Mysoft's Heraking: 161 HP
+
+Begin Turn #27
+Heraking used Hidden Power!
+(61% damage)
+It's super effective!
+Blissey fainted!
+Ged_(GSC) sent out Jolteon (Lv.100 Jolteon)!
+---------------------------------
+End of turn #27
+Ged_(GSC)'s Jolteon: 30% HP
+Mysoft's Heraking: 161 HP
+Ged_(GSC): =/
+
+Begin Turn #28
+Jolteon used Substitute!
+Jolteon made a Substitute!
+---------------------------------
+Heraking used Earthquake!
+The Substitute took damage for Jolteon!
+Jolteon's Substitute faded!
+It's super effective!
+---------------------------------
+End of turn #28
+Ged_(GSC)'s Jolteon: 6% HP
+Mysoft's Heraking: 161 HP
+
+Begin Turn #29
+Jolteon used Thunderbolt!
+(135 damage)
+---------------------------------
+Heraking used Earthquake!
+(6% damage)
+It's super effective!
+Jolteon fainted!
+
+End Battle!  Mysoft wins!
+Score: 0 to 3
+Mysoft: This is nothing without love
+Ged_(GSC): gg
+
+NetBattle v0.9.6
+Log saved 3/11/2005 at 12:05:25

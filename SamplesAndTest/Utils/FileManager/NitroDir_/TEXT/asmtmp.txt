@@ -1,0 +1,55 @@
+' the objective is split the r/g/b bits
+as far as possible (4 bits is the max)
+the perfect way is that way:
+0000rrrrr0000gggggg0000bbbbb0000
+and for better explanation
+++++rrrrr0000gggggg0000bbbbb----
+like achieved by the second algorithm
+take not that the most significant bit
+must have a space from the border
+like pointed by the + symbols there...
+and the space on the right that is
+pointed by - symbols that space
+isnt exactly necessary... so if end as:
+00000000rrrrr0000gggggg0000bbbbb
+that will be ok to me...
+--------------------------------------------
+
+this one creates 2 spaces between
+components... using 4 instructions
+
+0000000000000000rrrrrggggggbbbbb
+bbbbb0000000000000000rrrrrgggggg 'ror eax,5
+bbbbb000000000000rrrrrgggggg0000 'shl ax,4
+00bbbbb000000000000rrrrrgggggg00 'shr eax,2
+00bbbbb000000000000rrrrr00gggggg 'shr al,2
+
+00bbbbb000000000000rrrrr00gggggg
+00bbbbb000000000000rrrrrgggggg00 'shl al,2
+bbbbb000000000000rrrrrgggggg0000 'shl eax,2
+bbbbb0000000000000000rrrrrgggggg 'shr ax,4
+0000000000000000rrrrrggggggbbbbb 'rol eax,5
+
+------------------------------------------------
+
+this one does the longer space possible
+that is... 4 spaces between components
+in 6 instructions...
+
+0000000000000000rrrrrggggggbbbbb
+rrrrrggggggbbbbb0000000000000000 'shl eax,16
+ggggggbbbbb0000000000000000rrrrr 'rol eax,5
+ggggggbbbbb000000000000rrrrr0000 'shl ax,4
+0rrrrr0000ggggggbbbbb00000000000 'ror eax,10
+0rrrrr0000gggggg0000bbbbb0000000 'shr ax,4
+0000rrrrr0000gggggg0000bbbbb0000 'shr eax,3
+
+------------------------------------------------
+have any ideas to make it better? ;)
+
+
+
+
+
+
+

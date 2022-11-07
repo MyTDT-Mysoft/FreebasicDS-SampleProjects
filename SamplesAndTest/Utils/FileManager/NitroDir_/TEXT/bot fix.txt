@@ -1,0 +1,13 @@
+[15:00] <AJC> rest is still a 1 turn sleep for earlybird pokemon
+[15:00] <AJC> ok
+[15:00] <AJC> fire types can't be burned at all
+[15:00] <AJC> confusion needs to last at least one turn before a pokemon can snap out of it
+[15:00] <AJC> rest lasts 1-4 turns 0-2 for early bird holders
+[15:01] <AJC> own tempo seems to preventing anyone from being confused
+[15:01] <Mysoft[BETA]> *sleep
+[15:01] <AJC> oops
+[15:01] <AJC> lol
+[15:02] <Mysoft[BETA]> i need to fix the CH message with 2-turn moves
+[15:02] Entrando: dbolt (~darkbolt7@66.139.87.129)
+[15:02] <Mysoft[BETA]> flatter is only +1 satk up
+

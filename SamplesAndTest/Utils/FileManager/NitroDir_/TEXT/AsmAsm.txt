@@ -1,0 +1,100 @@
+;--------------------------------------------------------------------------
+;   Program:  nextval subroutine
+;
+;   Function: Find the next mouse move in a 15x30 array
+;             We can move into a position if its content is blank (20h)
+;
+;   Input:    Four pointers
+;             maze pointer at bp+4
+;             x    pointer at bp+6
+;             y    pointer at bp+8
+;             dir  pointer at bp+10
+;
+;   Output:   x,y,dir modified in C data segment
+;--------------------------------------------------------------------------
+         .model   small                      ; 64k code and 64k data
+         .8086                               ; only allow 8086 instructions
+         public   _nextval                   ; allow external programs to access
+;----------------------------------------
+         .data                               ; start the data segment
+;----------------------------------------
+mult     db       30                         ; Multiplier value to calculate offset
+
+tab_off  db 0,10,20,30,40,50
+;           Start X/Y inc/dec+NewDir Next TabNext
+dir_tab  dw    0   ,0    ,00000h     ,0    ,0    
+         dw  -30-1 ,8    ,004FFh     ,31   ,16   
+         dw  1-1   ,6    ,00101h     ,29   ,16   
+         dw  30-1  ,8    ,00201h     ,-31  ,16   
+         dw  -1-1  ,6    ,003FFh     ,-29  ,-48  
+
+;----------------------------------------
+         .code                               ; start code segment
+;----------------------------------------
+; Save the registers C requires (dp si di)
+;----------------------------------------
+_nextval:                                    ;
+         push     bp                         ; save bp
+         mov      bp,sp                      ; bp points to stack
+         push     si                         ; save si
+         push     di                         ; save di
+;----------------------------------------
+; Clear AX and BX and set the registers
+; equal to the x and y positions
+;----------------------------------------
+         mov      si,[bp+8]                  ; store the Y pointer in si
+         mov      al,[si]                    ; get y position
+         mov      si,[bp+6]                  ; store the X pointer in si
+	 mov      bx,0                       ; clear bx
+         mov      bl,[si]                    ; get x position
+;----------------------------------------
+; Determine the offset by subtracting 1
+; from each position value and multiplying
+; (y-1) by 30
+;----------------------------------------
+         dec      al                         ; subtract 1 from both x and y
+         dec      bx                         ; to calculate offset
+         mul      [mult]                     ; multiply y position by 30
+         add      ax,bx                      ; add to get calculated offset
+         mov      di,[bp+10]                 ; load di with pointer to direction	 
+         mov      si,[bp+4]                  ; store the maze pointer in si
+         add      si,ax                      ; si now ptr to maze+offset
+;----------------------------------------
+; Store the direction in bl
+; Shift direction by 4 so it can become
+; a reference to the table
+;----------------------------------------
+         mov      bl,[di]                    ; get direction
+         mov      bl,[tab_off+bx]            ; bl = bl*10
+	 add      si,[bx+dir_tab]            ; store pointer in si
+;----------------------------------------
+; Try north/east/south/west (ordered)
+; Offset: -30
+; Decrement the y position if successful
+;----------------------------------------
+dirct:
+         cmp      byte ptr [si],20h          ; check if space is available
+         je       mov_m                      ; move if space free
+         add      si,[bx+8+dir_tab]          ; point to next direction
+	 add      bx,[bx+10+dir_tab]         ; point to next item on the table
+         jmp      dirct                      ; jump to dirct
+;----------------------------------------
+; Increment/decrement the position
+; Update new direction
+;----------------------------------------
+mov_m:
+	 mov      ax,[bx+4+dir_tab]          ; increment/new direction
+         add      bp,[bx+2+dir_tab]          ; X or Y?
+	 mov	  si,[bp]		     ; set si to X or Y pointer
+         add      [si],al                    ; +1 or -1 on X or Y
+         mov      [di],ah                    ; set direction accordingly
+;----------------------------------------
+; Restore resgisters and return
+;----------------------------------------
+exit:
+         pop      di                         ; restore di
+         pop      si                         ; restore si
+         pop      bp                         ; restore bp
+         ret                                 ; return
+;----------------------------------------
+         end

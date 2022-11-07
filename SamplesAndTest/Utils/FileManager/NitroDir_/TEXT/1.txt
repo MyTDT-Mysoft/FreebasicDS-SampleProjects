@@ -1,0 +1,39 @@
+-------------------------------------
+
+[23:47] -ChanServ- 2 SOP Corpse
+[23:47] -ChanServ- 3 SOP Scol
+[23:47] -ChanServ- 10 SOP Luiz
+[23:47] -ChanServ- 7 SOP Urbaned
+
+[23:47] -ChanServ- 13 AOP Fire
+[23:47] -ChanServ- 14 AOP fb
+[23:47] -ChanServ- 1 AOP Control
+[23:47] -ChanServ- 4 AOP Blood
+[23:47] -ChanServ- 5 AOP Tiago
+[23:47] -ChanServ- 8 AOP Shinji
+
+[23:47] -ChanServ- 12 HOP Tegami
+[23:47] -ChanServ- 15 HOP Fran
+
+[23:47] -ChanServ- 9 VOP WereWolf
+[23:47] -ChanServ- 6 VOP beatNgu
+[23:47] -ChanServ- 11 VOP Hika-Chan
+
+[23:47] -ChanServ- End of access list.
+
+/CS SOP #QBASIC ADD CORPSE
+/CS SOP #QBASIC ADD SCOL
+/CS SOP #QBASIC ADD LUIZ
+/CS SOP #QBASIC ADD URBANED
+/CS AOP #QBASIC ADD FB
+/CS AOP #QBASIC ADD CONTROL
+/CS AOP #QBASIC ADD BLOOD
+/CS AOP #QBASIC ADD TIAGO
+/CS AOP #QBASIC ADD SHINJI
+/CS HOP #QBASIC ADD TEGAMI
+/CS HOP #QBASIC ADD FRAN
+/CS HOP #QBASIC ADD BEATNGU
+/CS VOP #QBASIC ADD WEREWOLF
+/CS VOP #QBASIC ADD HIKA-CHAN
+
+-------------------------------------
