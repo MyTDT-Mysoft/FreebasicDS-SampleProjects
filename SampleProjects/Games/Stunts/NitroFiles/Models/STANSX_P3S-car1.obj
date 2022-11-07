@@ -1,0 +1,249 @@
+# Wavefront(OBJ) export utility by Dr_D
+# STANSX_P3S-car1.obj
+# Vertices: 104
+# Points: 0
+# Lines: 0
+# Faces: 75
+# Materials: 13
+#
+#
+#
+#
+#
+# Vertex list
+v 10 20 2
+v 10 20 -11
+v -10 20 -11
+v -10 20 2
+v -12 3 29
+v -12 9 29
+v -12 3 35
+v -18 3 29
+v -18 9 29
+v -18 3 24
+v 12 3 29
+v 12 9 29
+v 12 3 23
+v 18 3 29
+v 18 9 29
+v 18 3 24
+v 13 3 -29
+v 13 9 -29
+v 13 3 -35
+v 20 3 -29
+v 20 9 -29
+v 20 3 -22
+v -13 3 -29
+v -13 9 -29
+v -13 3 -23
+v -20 3 -29
+v -20 9 -29
+v -20 3 -22
+v 10 6 50
+v -10 6 50
+v -10 4 49
+v 10 4 49
+v 7 0 50
+v 10 2 48
+v -10 2 48
+v -7 0 50
+v -15 2 47
+v -15 0 47
+v -15 4 48
+v -15 6 48
+v 15 8 46
+v -15 8 46
+v -16 6 46
+v -17 4 46
+v -16 2 46
+v -16 0 47
+v 16 12 33
+v -16 12 33
+v 15 12 18
+v -15 12 18
+v 15 0 47
+v 15 2 47
+v 16 2 46
+v 17 4 46
+v 15 4 48
+v 15 6 48
+v 16 6 46
+v 16 0 47
+v -17 4 38
+v -17 0 38
+v -17 6 36
+v 17 0 38
+v 17 4 38
+v -17 10 32
+v 17 6 36
+v 17 10 32
+v -17 10 27
+v 17 10 27
+v -17 0 20
+v -17 4 21
+v -17 5 -21
+v -17 0 -20
+v 17 0 20
+v 17 0 -20
+v 17 5 -21
+v 17 4 21
+v -17 11 -26
+v 17 11 -26
+v -15 15 -35
+v -10 20 -8
+v -15 14 -10
+v 15 14 -10
+v 10 20 -8
+v -15 14 -16
+v 15 14 -16
+v -13 15 -31
+v 13 15 -31
+v 15 15 -35
+v 15 15 -47
+v -15 15 -47
+v -16 12 -47
+v 16 12 -47
+v -17 11 -31
+v -16 9 -50
+v -16 5 -50
+v -17 4 -38
+v 17 4 -38
+v 16 5 -50
+v 16 9 -50
+v 17 11 -31
+v -16 1 -38
+v 16 1 -38
+v 17 0 46
+v -17 0 46
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts000
+f 1 2 3 4
+usemtl Stunts038
+f 5 6 7 8 9 10
+f 11 12 13 14 15 16
+f 17 18 19 20 21 22
+f 23 24 25 26 27 28
+usemtl Stunts077
+f 29 30 31 32
+usemtl Stunts076
+f 33 34 35 36
+f 36 35 37 38
+usemtl Stunts000
+f 35 31 39 37
+usemtl Stunts015
+f 31 30 40 39
+usemtl Stunts078
+f 29 41 42 30
+usemtl Stunts015
+f 39 40 43 44
+usemtl Stunts000
+f 37 39 44 45
+usemtl Stunts076
+f 38 37 45 46
+usemtl Stunts079
+f 41 47 48 42
+f 47 49 50 48
+usemtl Stunts076
+f 34 32 31 35
+f 51 52 34 33
+usemtl Stunts000
+f 53 54 55 52
+f 52 55 32 34
+usemtl Stunts015
+f 55 56 29 32
+f 54 57 56 55
+usemtl Stunts078
+f 57 41 42 43
+f 30 42 43 40
+f 29 56 57 41
+usemtl Stunts076
+f 58 53 52 51
+f 46 44 59 60
+usemtl Stunts077
+f 44 43 61 59
+usemtl Stunts076
+f 62 63 54 58
+usemtl Stunts078
+f 42 48 64 61 43
+usemtl Stunts077
+f 54 63 65 57
+usemtl Stunts078
+f 57 65 66 47 41
+f 48 50 67 64
+f 47 66 68 49
+usemtl Stunts008
+f 60 59 63 62
+usemtl Stunts093
+f 59 61 65 63
+usemtl Stunts092
+f 64 66 65 61
+f 64 67 68 66
+usemtl Stunts076
+f 69 70 71 72
+f 73 74 75 76
+usemtl Stunts077
+f 71 70 67 77
+f 75 78 68 76
+usemtl Stunts078
+f 77 67 50 79
+usemtl Stunts008
+f 73 76 70 69
+usemtl Stunts093
+f 76 68 67 70
+usemtl Stunts043
+f 49 1 4 50
+usemtl Stunts044
+f 4 80 81 50
+f 1 49 82 83
+usemtl Stunts000
+f 80 3 84 81
+f 83 82 85 2
+usemtl Stunts044
+f 84 3 86
+f 85 87 2
+usemtl Stunts043
+f 86 3 2 87
+usemtl Stunts079
+f 79 84 86
+f 88 87 85
+f 79 86 87 88 89 90
+usemtl Stunts078
+f 49 68 78 88
+f 77 79 90 91
+f 92 89 88 78
+usemtl Stunts045
+f 91 90 89 92
+usemtl Stunts077
+f 93 91 94 95 96
+f 97 98 99 92 100
+usemtl Stunts076
+f 101 96 95
+f 102 98 97
+usemtl Stunts077
+f 95 94 99 98
+f 101 95 98 102
+usemtl Stunts079
+f 94 91 92 99
+usemtl Stunts008
+f 72 71 75 74
+usemtl Stunts093
+f 71 77 78 75
+usemtl Stunts092
+f 77 93 100 78
+f 96 97 100 93
+usemtl Stunts008
+f 69 72 74 73
+f 60 62 103 104
+f 101 102 97 96
+f 103 33 36 104
+#
+#
+#
+#
+#
+# END OF FILE

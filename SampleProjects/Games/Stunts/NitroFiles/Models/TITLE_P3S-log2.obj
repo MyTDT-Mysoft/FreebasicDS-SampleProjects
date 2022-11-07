@@ -1,0 +1,144 @@
+# Wavefront(OBJ) export utility by Dr_D
+# TITLE_P3S-log2.obj
+# Vertices: 64
+# Points: 0
+# Lines: 0
+# Faces: 28
+# Materials: 5
+#
+#
+#
+#
+#
+# Vertex list
+v 1024 -1024 -1024
+v 1024 0 -1024
+v 1024 0 1024
+v 1024 -1024 1024
+v -1024 0 1024
+v -1024 -1024 1024
+v -1024 -1024 -1024
+v -1024 0 -1024
+v -414 0 10
+v -946 0 10
+v -913 0 -244
+v -400 0 -106
+v -819 0 -472
+v -359 0 -206
+v -668 0 -668
+v -292 0 -292
+v -473 0 -819
+v -207 0 -359
+v -244 0 -913
+v -106 0 -400
+v 10 0 -946
+v 10 0 -414
+v -10 0 -414
+v -10 0 -946
+v 244 0 -913
+v 106 0 -400
+v 472 0 -819
+v 206 0 -359
+v 668 0 -668
+v 292 0 -292
+v 819 0 -473
+v 359 0 -207
+v 913 0 -244
+v 400 0 -106
+v 946 0 10
+v 414 0 10
+v 414 0 -10
+v 946 0 -10
+v 913 0 244
+v 400 0 106
+v 819 0 472
+v 359 0 206
+v 668 0 668
+v 292 0 292
+v 473 0 819
+v 207 0 359
+v 244 0 913
+v 106 0 400
+v -10 0 946
+v -10 0 414
+v 10 0 414
+v 10 0 946
+v -244 0 913
+v -106 0 400
+v -472 0 819
+v -206 0 359
+v -668 0 668
+v -292 0 292
+v -819 0 473
+v -359 0 207
+v -913 0 244
+v -400 0 106
+v -946 0 -10
+v -414 0 -10
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts004
+f 1 2 3 4
+usemtl Stunts008
+f 4 3 5 6
+f 7 8 2 1
+usemtl Stunts001
+f 2 8 5 3
+usemtl Stunts020
+f 9 10 11 12
+usemtl Stunts019
+f 12 11 13 14
+usemtl Stunts020
+f 14 13 15 16
+usemtl Stunts019
+f 16 15 17 18
+usemtl Stunts020
+f 17 19 20 18
+usemtl Stunts019
+f 20 19 21 22
+usemtl Stunts020
+f 23 24 25 26
+usemtl Stunts019
+f 26 25 27 28
+usemtl Stunts020
+f 28 27 29 30
+usemtl Stunts019
+f 30 29 31 32
+usemtl Stunts020
+f 31 33 34 32
+usemtl Stunts019
+f 34 33 35 36
+usemtl Stunts020
+f 37 38 39 40
+usemtl Stunts019
+f 40 39 41 42
+usemtl Stunts020
+f 42 41 43 44
+usemtl Stunts019
+f 44 43 45 46
+usemtl Stunts020
+f 45 47 48 46
+usemtl Stunts019
+f 48 47 49 50
+usemtl Stunts020
+f 51 52 53 54
+usemtl Stunts019
+f 54 53 55 56
+usemtl Stunts020
+f 56 55 57 58
+usemtl Stunts019
+f 58 57 59 60
+usemtl Stunts020
+f 59 61 62 60
+usemtl Stunts019
+f 62 61 63 64
+#
+#
+#
+#
+#
+# END OF FILE

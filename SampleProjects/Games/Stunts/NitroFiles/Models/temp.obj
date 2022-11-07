@@ -1,0 +1,50 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME1_P3S-temp.obj
+# Vertices: 14
+# Points: 0
+# Lines: 0
+# Faces: 7
+# Materials: 2
+#
+#
+#
+#
+#
+# Vertex list
+v 65 0 -119
+v 36 0 -138
+v -132 0 31
+v -112 0 60
+v 204 0 -319
+v 168 0 -328
+v -321 0 163
+v -311 0 199
+v 309 0 -547
+v 267 0 -545
+v -537 0 265
+v -539 0 306
+v 371 0 -782
+v -773 0 370
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts128
+f 1 2 3 4
+usemtl Stunts127
+f 5 6 2 1
+f 7 8 4 3
+usemtl Stunts128
+f 9 10 6 5
+f 7 11 12 8
+usemtl Stunts127
+f 13 10 9
+f 14 12 11
+#
+#
+#
+#
+#
+# END OF FILE

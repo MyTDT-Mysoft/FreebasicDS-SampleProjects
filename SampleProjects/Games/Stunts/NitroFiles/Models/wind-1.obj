@@ -1,0 +1,277 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-wind-1.obj
+# Vertices: 102
+# Points: 0
+# Lines: 0
+# Faces: 97
+# Materials: 10
+#
+#
+#
+#
+#
+# Vertex list
+v -27 0 -135
+v -27 90 -135
+v 27 90 -135
+v 27 0 -135
+v 64 90 -112
+v 64 0 -112
+v -64 0 -112
+v -64 90 -112
+v 94 90 -78
+v 94 0 -78
+v -94 0 -78
+v -94 90 -78
+v 114 90 -33
+v 114 0 -33
+v -114 0 -33
+v -114 90 -33
+v 114 90 33
+v 114 0 33
+v -114 0 33
+v -114 90 33
+v 94 90 78
+v 94 0 78
+v -94 0 78
+v -94 90 78
+v 64 90 112
+v 64 0 112
+v -64 0 112
+v -64 90 112
+v 27 90 135
+v 27 0 135
+v -27 0 135
+v -27 90 135
+v -10 348 -45
+v 10 348 -45
+v 27 348 -40
+v -27 348 -40
+v 40 348 -33
+v -40 348 -33
+v 45 348 -10
+v -45 348 -10
+v 45 348 10
+v -45 348 10
+v 40 348 33
+v -40 348 33
+v 27 348 40
+v -27 348 40
+v 10 348 45
+v -10 348 45
+v -10 370 -45
+v 10 370 -45
+v 27 370 -40
+v -27 370 -40
+v 40 370 -33
+v -40 370 -33
+v 45 370 -10
+v -45 370 -10
+v 45 370 10
+v -45 370 10
+v 40 370 33
+v -40 370 33
+v 27 370 40
+v -27 370 40
+v 10 370 45
+v -10 370 45
+v -13 370 -22
+v 13 370 -22
+v 28 370 -6
+v -28 370 -6
+v 28 370 6
+v -28 370 6
+v 13 370 22
+v -13 370 22
+v -13 382 -22
+v 13 382 -22
+v 28 382 -6
+v -28 382 -6
+v 28 382 6
+v -28 382 6
+v 13 382 22
+v -13 382 22
+v 0 410 0
+v -4 360 -100
+v -4 360 -45
+v 4 360 -45
+v 4 360 -100
+v -33 225 -100
+v 0 360 -100
+v 33 225 -100
+v 78 247 -100
+v -78 247 -100
+v 112 280 -100
+v -112 280 -100
+v 135 325 -100
+v -135 325 -100
+v 135 393 -100
+v -135 393 -100
+v 112 438 -100
+v -112 438 -100
+v 78 472 -100
+v -78 472 -100
+v 33 495 -100
+v -33 495 -100
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts111
+f 1 2 3 4
+usemtl Stunts112
+f 4 3 5 6
+f 7 8 2 1
+usemtl Stunts111
+f 6 5 9 10
+f 11 12 8 7
+usemtl Stunts112
+f 10 9 13 14
+f 15 16 12 11
+usemtl Stunts111
+f 14 13 17 18
+f 19 20 16 15
+usemtl Stunts112
+f 18 17 21 22
+f 23 24 20 19
+usemtl Stunts111
+f 22 21 25 26
+f 27 28 24 23
+usemtl Stunts112
+f 26 25 29 30
+f 31 32 28 27
+usemtl Stunts111
+f 30 29 32 31
+usemtl Stunts078
+f 2 33 34 3
+usemtl Stunts076
+f 3 34 35 5
+f 8 36 33 2
+usemtl Stunts078
+f 5 35 37 9
+f 12 38 36 8
+usemtl Stunts076
+f 9 37 39 13
+f 16 40 38 12
+usemtl Stunts078
+f 13 39 41 17
+f 20 42 40 16
+usemtl Stunts076
+f 17 41 43 21
+f 24 44 42 20
+usemtl Stunts078
+f 21 43 45 25
+f 28 46 44 24
+usemtl Stunts076
+f 25 45 47 29
+f 32 48 46 28
+usemtl Stunts078
+f 29 47 48 32
+usemtl Stunts059
+f 33 49 50 34
+usemtl Stunts058
+f 34 50 51 35
+f 36 52 49 33
+usemtl Stunts059
+f 35 51 53 37
+f 38 54 52 36
+usemtl Stunts058
+f 37 53 55 39
+f 40 56 54 38
+usemtl Stunts059
+f 39 55 57 41
+f 42 58 56 40
+usemtl Stunts058
+f 41 57 59 43
+f 44 60 58 42
+usemtl Stunts059
+f 43 59 61 45
+f 46 62 60 44
+usemtl Stunts058
+f 45 61 63 47
+f 48 64 62 46
+usemtl Stunts059
+f 63 64 48 47
+usemtl Stunts076
+f 49 65 66 50
+usemtl Stunts077
+f 50 66 51
+f 52 65 49
+usemtl Stunts076
+f 51 66 67 53
+f 54 68 65 52
+usemtl Stunts077
+f 53 67 55
+f 56 68 54
+usemtl Stunts076
+f 55 67 69 57
+f 58 70 68 56
+usemtl Stunts077
+f 57 69 59
+f 60 70 58
+usemtl Stunts076
+f 59 69 71 61
+f 62 72 70 60
+usemtl Stunts077
+f 61 71 63
+f 64 72 62
+usemtl Stunts076
+f 63 71 72 64
+usemtl Stunts059
+f 65 73 74 66
+usemtl Stunts058
+f 66 74 75 67
+f 68 76 73 65
+usemtl Stunts059
+f 67 75 77 69
+f 70 78 76 68
+usemtl Stunts058
+f 69 77 79 71
+f 72 80 78 70
+usemtl Stunts059
+f 71 79 80 72
+usemtl Stunts111
+f 73 81 74
+usemtl Stunts112
+f 74 81 75
+f 76 81 73
+usemtl Stunts111
+f 75 81 77
+f 78 81 76
+usemtl Stunts112
+f 77 81 79
+f 80 81 78
+usemtl Stunts111
+f 79 81 80
+usemtl Stunts008
+f 82 83 84 85
+usemtl Stunts113
+f 86 87 88
+usemtl Stunts118
+f 88 87 89
+f 90 87 86
+f 89 87 91
+f 92 87 90
+f 91 87 93
+f 94 87 92
+usemtl Stunts113
+f 93 87 95
+f 96 87 94
+usemtl Stunts118
+f 95 87 97
+f 98 87 96
+f 97 87 99
+f 100 87 98
+f 99 87 101
+usemtl Stunts113
+f 101 87 102
+usemtl Stunts118
+f 102 87 100
+#
+#
+#
+#
+#
+# END OF FILE

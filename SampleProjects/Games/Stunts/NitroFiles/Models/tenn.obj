@@ -1,0 +1,63 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-tenn.obj
+# Vertices: 18
+# Points: 0
+# Lines: 9
+# Faces: 2
+# Materials: 3
+#
+#
+#
+#
+#
+# Vertex list
+v 150 0 -250
+v 150 0 250
+v -150 0 250
+v -150 0 -250
+v 125 0 250
+v 125 0 -250
+v -125 0 250
+v -125 0 -250
+v 0 0 -125
+v 0 0 125
+v 125 0 -125
+v -125 0 -125
+v 125 0 125
+v -125 0 125
+v -150 0 0
+v -150 30 0
+v 150 30 0
+v 150 0 0
+#
+#
+#
+#
+#
+# Line list
+usemtl Stunts015
+l 1 4
+l 2 3
+l 4 3
+l 1 2
+l 5 6
+l 7 8
+l 9 10
+l 11 12
+l 13 14
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts095
+f 1 2 3 4
+usemtl Stunts094
+f 15 16 17 18
+#
+#
+#
+#
+#
+# END OF FILE

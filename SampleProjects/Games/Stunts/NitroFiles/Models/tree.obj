@@ -1,0 +1,50 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-tree.obj
+# Vertices: 14
+# Points: 0
+# Lines: 0
+# Faces: 8
+# Materials: 3
+#
+#
+#
+#
+#
+# Vertex list
+v 15 0 -10
+v -15 0 -10
+v -15 100 -10
+v 15 100 -10
+v 15 0 10
+v 15 100 10
+v -15 100 10
+v -15 0 10
+v 60 100 -60
+v 15 300 0
+v 60 100 60
+v -60 100 -60
+v -60 100 60
+v -15 300 0
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts098
+f 1 2 3 4
+f 5 6 7 8
+usemtl Stunts099
+f 1 4 6 5
+f 2 8 7 3
+usemtl Stunts010
+f 9 10 11
+f 12 13 14
+f 10 14 13 11
+f 10 9 12 14
+#
+#
+#
+#
+#
+# END OF FILE

@@ -1,0 +1,72 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME1_P3S-turn-3.obj
+# Vertices: 32
+# Points: 0
+# Lines: 0
+# Faces: 9
+# Materials: 2
+#
+#
+#
+#
+#
+# Vertex list
+v 36 0 -197
+v 120 0 -514
+v -120 0 -514
+v -172 0 -317
+v -2 0 -512
+v -6 0 -446
+v -2 0 -446
+v 2 0 -512
+v -19 0 -382
+v -41 0 -317
+v -37 0 -315
+v -15 0 -381
+v -194 0 34
+v -315 0 -173
+v -70 0 -258
+v -106 0 -203
+v -103 0 -201
+v -66 0 -256
+v -151 0 -151
+v -201 0 -108
+v -198 0 -105
+v -149 0 -149
+v -514 0 120
+v -514 0 -120
+v -255 0 -71
+v -317 0 -41
+v -315 0 -37
+v -253 0 -68
+v -379 0 -20
+v -443 0 -7
+v -443 0 -3
+v -378 0 -16
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts028
+f 1 2 3 4
+usemtl Stunts030
+f 5 6 7 8
+f 9 10 11 12
+usemtl Stunts028
+f 13 1 4 14
+usemtl Stunts030
+f 15 16 17 18
+f 19 20 21 22
+usemtl Stunts028
+f 23 13 14 24
+usemtl Stunts030
+f 25 26 27 28
+f 29 30 31 32
+#
+#
+#
+#
+#
+# END OF FILE
