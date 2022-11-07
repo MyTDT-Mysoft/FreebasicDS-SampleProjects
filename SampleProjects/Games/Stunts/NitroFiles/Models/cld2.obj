@@ -1,0 +1,44 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-cld2.obj
+# Vertices: 12
+# Points: 0
+# Lines: 0
+# Faces: 5
+# Materials: 2
+#
+#
+#
+#
+#
+# Vertex list
+v -1000 375 0
+v -500 825 0
+v 750 562 0
+v 850 300 0
+v 700 187 0
+v 0 112 0
+v -300 1050 0
+v 0 1125 0
+v -1000 300 0
+v 0 37 0
+v 700 112 0
+v 850 225 0
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts096
+f 1 2 3 4 5 6
+f 2 7 8 3
+usemtl Stunts097
+f 9 1 6 10
+f 10 6 5 11
+f 11 5 4 12
+#
+#
+#
+#
+#
+# END OF FILE

@@ -1,0 +1,31 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-goup.obj
+# Vertices: 4
+# Points: 0
+# Lines: 0
+# Faces: 1
+# Materials: 1
+#
+#
+#
+#
+#
+# Vertex list
+v -514 -6 -514
+v -514 444 514
+v 514 444 514
+v 514 -6 -514
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts102
+f 1 2 3 4
+#
+#
+#
+#
+#
+# END OF FILE

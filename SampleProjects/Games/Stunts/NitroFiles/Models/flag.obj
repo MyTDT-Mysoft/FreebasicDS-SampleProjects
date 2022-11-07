@@ -1,0 +1,48 @@
+# Wavefront(OBJ) export utility by Dr_D
+# GAME2_P3S-flag.obj
+# Vertices: 7
+# Points: 0
+# Lines: 1
+# Faces: 4
+# Materials: 5
+#
+#
+#
+#
+#
+# Vertex list
+v 0 0 0
+v 0 550 0
+v 0 510 0
+v 40 530 0
+v 0 530 40
+v -40 530 0
+v 0 530 -40
+#
+#
+#
+#
+#
+# Line list
+usemtl Stunts012
+l 1 2
+#
+#
+#
+#
+#
+# Face list
+usemtl Stunts004
+f 2 3 4
+usemtl Stunts001
+f 2 3 5
+usemtl Stunts005
+f 2 3 6
+usemtl Stunts014
+f 2 3 7
+#
+#
+#
+#
+#
+# END OF FILE
